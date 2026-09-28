@@ -383,9 +383,9 @@ Workflow:
 
 ## 👨‍💻 Author
 
-**Jaideep Goyal**
+**Kanishka Sharma**
 
-B.Tech Jaideep Goyal
+B.Tech Kanishka Sharma
 
 Interested in Distributed Systems, AI Systems, and Production Engineering.
 
