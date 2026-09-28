@@ -14,3 +14,4 @@ compile_commands.json
 configs/*.env
 
 coverage/
+*.rdb
